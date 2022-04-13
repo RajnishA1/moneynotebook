@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836741509115",
+    "project_id": "moneynotebook-861ef",
+    "storage_bucket": "moneynotebook-861ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836741509115:android:0ec9c28d7f1c17a903255e",
+        "android_client_info": {
+          "package_name": "com.example.moneynotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836741509115-3a4aau2nkinvdrvo6i9u81toie7ve508.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneynotebook",
+            "certificate_hash": "4130ac40d16483b456f359308430b3d3e652ab9c"
+          }
+        },
+        {
+          "client_id": "836741509115-c3f5269ba4fjsrosqnbtinuh0dcs9mm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0osXzGiqnF7aC1W545lBhqqbWA3ZLtak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836741509115-c3f5269ba4fjsrosqnbtinuh0dcs9mm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+
+
+
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="15dp"
+        android:layout_margin="5dp"
+
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#41CABC"
+
+
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textview_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="start"
+                android:paddingStart="20dp"
+                android:paddingTop="10dp"
+                android:text="@string/name"
+                android:textColor="@color/white"
+                android:textSize="28dp">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textview_row2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textview_row"
+
+                android:gravity="start"
+                android:paddingStart="20dp"
+                android:text="rupees"
+                android:textColor="@color/white"
+                android:textSize="28dp">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textview_row3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textview_row2"
+
+                android:gravity="start"
+                android:paddingStart="20dp"
+                android:text="rupees"
+
+                android:textColor="@color/white"
+                android:textSize="16dp">
+
+            </TextView>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

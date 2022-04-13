@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/activity_addmoneypage.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/activity_history.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/activity_historypage.xml" value="0.1" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/activity_main.xml" value="0.3015625" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/activity_postlist.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/historylistitem.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/post.xml" value="0.25" />
+        <entry key="..\:/Users/Rajnish/AndroidStudioProjects/moneynotebook/app/src/main/res/layout/row.xml" value="0.26313405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
